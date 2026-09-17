@@ -1,2 +1,4 @@
 Hello World!
 I'm starting my TOP journey!
+
+Test for commit's message with VS Code
